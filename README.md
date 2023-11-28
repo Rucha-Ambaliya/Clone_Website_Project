@@ -1,7 +1,7 @@
 # Veer Narmad South Gujarat University (VNSGU) Clone Website Project
 
 Welcome to my HTML and CSS project that aims to create a clone of the Veer Narmad South Gujarat University (VNSGU) website. This project is a practical implementation of my learnings in HTML and CSS.
-<br><br>
+<br>
 
 ### Project Overview
 
@@ -31,11 +31,11 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
   - `style.css` - Main styles file
   - `g20.css` - g20 styles
   - `student.css` - student corner,college corner and employee corner styles.
-  <br><br>
+  <br>
   
 
 - **pictures:** Contains necessary images for the project.
-<br><br>
+<br>
 
 ### Project Features
 
@@ -65,12 +65,14 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
   - Divided into two parts (`foot_one` and `foot_two`).
   - `foot_one` displays a logo with a background color.
   - `foot_two` provides detailed contact information and social media icons.
+  <br>
 
 ### How to run project
 
 - Fork the repository and run the file "index.html" in the browser to see the website. For now the website is not device compatible so it will be a better choise to review it on the desktop or the laptop screen.
 - File Path :
 Clone_Website_Project/html_files/index.html
+<br>
 
 
 ### Link
@@ -79,14 +81,17 @@ Clone_Website_Project/html_files/index.html
 
    ```bash
    git clone https://github.com/Rucha-Ambaliya/Clone_website-Project.git
+<br>
 
 ### How to Contribute
 
 - If you'd like to contribute to the project or report issues, feel free to fork the repository and submit pull requests.
+<br>
 
 ### Acknowledgements
 
 - I would like to express my gratitude to VNSGU for providing the inspiration and content for this educational project.
+<br>
 
 ### Feedback
 
