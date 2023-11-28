@@ -22,7 +22,8 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
   - `employee.html` - employee corner
   - `g20.html` - G20 corner
   - `student.html` - Student corner
-  ##### These are the files which let you nevigate through different sections in the header of "index.html".
+  <br>
+  These are the files which let you nevigate through different sections in the header of "index.html".
   
 
 
