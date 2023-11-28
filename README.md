@@ -22,16 +22,15 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
   - `employee.html` - employee corner
   - `g20.html` - G20 corner
   - `student.html` - Student corner
-  <br>
   ##### These are the files which let you nevigate through different sections in the header of "index.html".
-  <br>
+  
 
 
 - **css_files:** Contains 3 CSS files.
   - `style.css` - Main styles file
   - `g20.css` - g20 styles
   - `student.css` - student corner,college corner and employee corner styles.
-  <br>
+
   
 
 - **pictures:** Contains necessary images for the project.
@@ -72,8 +71,6 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
 - Fork the repository and run the file "index.html" in the browser to see the website. For now the website is not device compatible so it will be a better choise to review it on the desktop or the laptop screen.
 - File Path :
 Clone_Website_Project/html_files/index.html
-<br>
-
 
 ### Link
 
@@ -81,17 +78,15 @@ Clone_Website_Project/html_files/index.html
 
    ```bash
    git clone https://github.com/Rucha-Ambaliya/Clone_website-Project.git
-<br>
+
 
 ### How to Contribute
 
 - If you'd like to contribute to the project or report issues, feel free to fork the repository and submit pull requests.
-<br>
 
 ### Acknowledgements
 
 - I would like to express my gratitude to VNSGU for providing the inspiration and content for this educational project.
-<br>
 
 ### Feedback
 
