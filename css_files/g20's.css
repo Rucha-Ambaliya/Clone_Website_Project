@@ -7,12 +7,11 @@ a{
 	text-decoration: none;
 }
 
-/* ---------------------------------Header----------------------- */
-
 .space{
 	white-space:pre;
-	
 }
+
+/* -------------------------------Header------------------------------ */
 
 .head1{
 	box-sizing: border-box;
@@ -22,9 +21,7 @@ a{
 	background-color: #002147;
 	line-height:	4;
 	font-size: 13px;
-	font-weight:400px;
-		
-		
+	font-weight:400px;	
 }
 
 .elements{
@@ -41,7 +38,7 @@ a{
     background-color: #002147;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
     padding: 20px;
     z-index: 2000; 
 }
@@ -54,21 +51,21 @@ a{
 	text-decoration: none;
 }
 
-
 #g20{
 	position:relative;
-	top:10px;
+	top: 10px;
 }
 
 #homeEle{
 	color: #fdc800;
+	top:10px;
 }
 
-/* -------------------------middle(slide) frame--------------------------*/
+/* -------------------------middle(slide) frame ---------------------*/
 
 .slide{
 	display:flex;
-	background-image: url("student.jpg") ;
+	background-image: url("../pictures/student.jpg") ;
 	opacity: 1;
 	width:100%;
 	height:300px;
@@ -99,66 +96,112 @@ a{
 	top: -20px;
 }
 
-/* ------------------------------boxes----------------------------- */
+#small_student hr{
+	width:35px;
+	color:#fdc800;
+	margin: 5px; 
+	height: 2px; 
+	background-color: #fdc800; 
+	border-radius: 2px;
+	position: relative;
+	left: -5px;	
+}
 
-.boxes{
-	height: 70px;
-	width:100%;
+/*------------------------------- content ------------------------ */
+
+.content{
+	height: 900px;
 	display: flex;
-	align-content: center;
 	justify-content: center;
-	margin: 20px;	
+	align-items: center;
+	margin: 100px;
 }
 
 .box{
-	background-color: #f3f3f3;
-	height: 60px;
-	width: 600px;
-	margin: 20px;
-	display: inline-block;
-	display: flex;
-	align-items: center;
-	color: #002147;
-	font-size: 18px;
-	border-radius: 4px;
+	height: 450px;
+	width: 230px;
 	border: 1px solid #dddddd;
+	padding: 20px;
+	position: relative;
+	top: -190px;
 }
 
-.circle{
-	height: 45px;
-	width: 45px;
-	background-color: #fdc800;
-	margin: 7px 10px;
-	border-radius: 50%;
-	text-align: center;
-	font-weight: 400px;
+.box h3{
+	 color: #002147;
+	 font-size: 22px;
+	 margin: 10px 5px 0px 0px;
+}
+
+.box p{	
+	font-weight: 400;
+	color: #444444;
+	margin: 0px;
+	font-size: 13px;
+	margin: 10px 0px;
+}
+
+.line{
+	width:210px;
+	color: #fafafa;
+	margin: 5px 0px;
+}
+
+.g20_table{
+	height: 870px;
+	width: 871px;
+	margin: 30px;
+}
+
+#table_head{
+	font-size: 30px;
+	display: inline-block;
+	color: #002147;
+	position: relative;
+	top: -5px;
+}
+
+.data{
+	display: flex;
+	margin-top: 30px; 
+}
+
+.data hr{
+	width: 54rem;
+	color: #eeeeee;
+	margin-bottom: 5px;
+}
+
+.bold_head{
+	font-weight: 700;
+	color: #444444;
+	font-size: 13px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.bold{
+	font-weight: 700;
+	color: #444444;
+	font-size: 13px;
 	display: inline-block;
 }
 
-.circle p{
-	position: relative;
-	top: 9px;
-	font-size: 20px;
-	
+.simple{
+	font-weight: 400;
+	color: #444444;
+	font-size: 13px;
+	display: inline-block;
+	margin-left: 20px;
 }
 
-.sign{
-	width: 15px;
-	height: 15px;
-	background-color: #fdc800;
-	margin: 7px 100px;
-	position: relative;
-	left: 250px;
+.blue{
+	font-weight: 700;
+	color: #337ab7;
+	font-size: 13px;
+	display: inline-block;
 }
 
-.sign p{
-	position: relative;
-	top: -3px;
-	color: white;
-	font-weight: bolder;
-}
-
-/*   ------------------------------ footer ----------------------------- */
+/* -------------------------------- footer --------------------------- */
 
 .foot_one{
 	background-color: #fdc800;
@@ -202,6 +245,3 @@ pre{
 	color: yellow;
 	display: inline;
 }
-
-
-
