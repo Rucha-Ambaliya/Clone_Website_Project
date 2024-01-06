@@ -69,11 +69,20 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
 
 ### How to run project
 
-- Fork the repository and run the file "index.html" in the browser to see the website. For now the website is not device compatible so it will be a better choise to review it on the desktop or the laptop screen.
+- To visit the website:
+  ```bash
+  https://rucha-ambaliya.github.io/Clone_Website_Project/
+
+- For now the website is not device compatible so it will be a better choise to review it on the desktop or the laptop screen.
+
 - File Path :
 Clone_Website_Project/html_files/index.html
 
-### Link
+### Links
+
+- To visit the website:
+  ```bash
+  https://rucha-ambaliya.github.io/Clone_Website_Project/
 
 - To clone the repository:
 
