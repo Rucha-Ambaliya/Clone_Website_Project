@@ -70,18 +70,10 @@ Welcome to my HTML and CSS project that aims to create a clone of the Veer Narma
 ## How to run project
 
 - To visit the website:
-  ```bash
+
   https://rucha-ambaliya.github.io/Clone_Website_Project/
+
 - For now the website is not device compatible so it will be a better choise to review it on the desktop or the laptop screen.
-
-- File Path :
-Clone_Website_Project/html_files/index.html
-
-## Links
-
-- To visit the website:
-
-  https://rucha-ambaliya.github.io/Clone_Website_Project/
 
 ## How to Contribute
 
@@ -94,10 +86,10 @@ Clone_Website_Project/html_files/index.html
    git clone https://github.com/Rucha-Ambaliya/Clone_website-Project.git
 - Feel free to fork this project and make your own improvements! If you have any questions or suggestions, don't hesitate to reach out.
 
-### Acknowledgements
+## Acknowledgements
 
 - I would like to express my gratitude to VNSGU for providing the inspiration and content for this educational project.
 
-### Feedback
+## Feedback
 
 - If you have any feedback, suggestions, or questions, please feel free to reach out. I appreciate your interest in this project!
